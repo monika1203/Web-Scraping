@@ -1,0 +1,518 @@
+Book_name,Ratings,Price,Category
+It's Only the Himalayas,2,£45.17,Travel
+Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,4,£49.43,Travel
+See America: A Celebration of Our National Parks & Treasured Sites,3,£48.87,Travel
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,2,£36.94,Travel
+Under the Tuscan Sun,3,£37.33,Travel
+A Summer In Europe,2,£44.34,Travel
+The Great Railway Bazaar,1,£30.54,Travel
+A Year in Provence (Provence #1),4,£56.88,Travel
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),1,£23.21,Travel
+Neither Here nor There: Travels in Europe,3,£38.95,Travel
+"1,000 Places to See Before You Die",5,£26.08,Travel
+Sharp Objects,4,£47.82,Mystery
+"In a Dark, Dark Wood",1,£19.63,Mystery
+The Past Never Ends,4,£56.50,Mystery
+A Murder in Time,1,£16.64,Mystery
+The Murder of Roger Ackroyd (Hercule Poirot #4),4,£44.10,Mystery
+The Last Mile (Amos Decker #2),2,£54.21,Mystery
+That Darkness (Gardiner and Renner #1),1,£13.92,Mystery
+Tastes Like Fear (DI Marnie Rome #3),1,£10.69,Mystery
+A Time of Torment (Charlie Parker #14),5,£48.35,Mystery
+A Study in Scarlet (Sherlock Holmes #1),2,£16.73,Mystery
+Poisonous (Max Revere Novels #3),3,£26.80,Mystery
+Murder at the 42nd Street Library (Raymond Ambler #1),4,£54.36,Mystery
+Most Wanted,3,£35.28,Mystery
+Hide Away (Eve Duncan #20),1,£11.84,Mystery
+Boar Island (Anna Pigeon #19),3,£59.48,Mystery
+The Widow,2,£27.26,Mystery
+Playing with Fire,3,£13.71,Mystery
+What Happened on Beale Street (Secrets of the South Mysteries #2),5,£25.37,Mystery
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),5,£52.30,Mystery
+Delivering the Truth (Quaker Midwife Mystery #1),4,£20.89,Mystery
+Tipping the Velvet,1,£53.74,Historical Fiction
+Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,3,£29.69,Historical Fiction
+A Flight of Arrows (The Pathfinders #2),5,£55.53,Historical Fiction
+The House by the Lake,1,£36.95,Historical Fiction
+Mrs. Houdini,5,£30.25,Historical Fiction
+The Marriage of Opposites,4,£28.08,Historical Fiction
+Glory over Everything: Beyond The Kitchen House,3,£45.84,Historical Fiction
+"Love, Lies and Spies",2,£20.55,Historical Fiction
+A Paris Apartment,4,£39.01,Historical Fiction
+Lilac Girls,2,£17.28,Historical Fiction
+The Constant Princess (The Tudor Court #1),3,£16.62,Historical Fiction
+The Invention of Wings,1,£37.34,Historical Fiction
+World Without End (The Pillars of the Earth #2),4,£32.97,Historical Fiction
+The Passion of Dolssa,5,£28.32,Historical Fiction
+Girl With a Pearl Earring,1,£26.77,Historical Fiction
+Voyager (Outlander #3),5,£21.07,Historical Fiction
+The Red Tent,5,£35.66,Historical Fiction
+The Last Painting of Sara de Vos,2,£55.55,Historical Fiction
+The Guernsey Literary and Potato Peel Pie Society,1,£49.53,Historical Fiction
+Girl in the Blue Coat,2,£46.83,Historical Fiction
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),5,£52.29,Sequential Art
+Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),1,£16.28,Sequential Art
+This One Summer,4,£19.49,Sequential Art
+The Nameless City (The Nameless City #1),4,£38.16,Sequential Art
+"Saga, Volume 5 (Saga (Collected Editions) #5)",2,£51.04,Sequential Art
+"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",3,£50.40,Sequential Art
+"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",5,£13.61,Sequential Art
+"Pop Gun War, Volume 1: Gift",1,£18.97,Sequential Art
+Patience,3,£10.16,Sequential Art
+"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",4,£15.44,Sequential Art
+orange: The Complete Collection 1 (orange: The Complete Collection #1),1,£48.41,Sequential Art
+"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",2,£46.91,Sequential Art
+"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",3,£45.61,Sequential Art
+Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),2,£19.92,Sequential Art
+"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",2,£29.17,Sequential Art
+I am a Hero Omnibus Volume 1,3,£54.63,Sequential Art
+"Giant Days, Vol. 2 (Giant Days #5-8)",2,£22.11,Sequential Art
+Danganronpa Volume 1,4,£51.99,Sequential Art
+"Codename Baboushka, Volume 1: The Conclave of Death",4,£36.72,Sequential Art
+Camp Midnight,4,£17.08,Sequential Art
+The Secret Garden,4,£15.08,Classics
+The Metamorphosis,1,£28.58,Classics
+The Pilgrim's Progress,2,£50.26,Classics
+The Hound of the Baskervilles (Sherlock Holmes #5),2,£14.82,Classics
+Little Women (Little Women #1),4,£28.07,Classics
+Gone with the Wind,3,£32.49,Classics
+Candide,3,£58.63,Classics
+Animal Farm,3,£57.22,Classics
+Wuthering Heights,3,£17.73,Classics
+The Picture of Dorian Gray,2,£29.70,Classics
+The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),4,£26.78,Classics
+Beowulf,2,£38.35,Classics
+And Then There Were None,2,£35.01,Classics
+The Story of Hong Gildong,4,£43.19,Classics
+The Little Prince,2,£45.42,Classics
+Sense and Sensibility,1,£37.46,Classics
+Of Mice and Men,2,£47.11,Classics
+Emma,2,£32.93,Classics
+Alice in Wonderland (Alice's Adventures in Wonderland #1),1,£55.53,Classics
+Sophie's World,5,£15.94,Philosophy
+The Death of Humanity: and the Case for Life,4,£58.11,Philosophy
+The Stranger,4,£17.44,Philosophy
+Proofs of God: Classical Arguments from Tertullian to Barth,1,£54.21,Philosophy
+Kierkegaard: A Christian Missionary to Christians,1,£47.13,Philosophy
+"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",5,£29.93,Philosophy
+Critique of Pure Reason,1,£20.75,Philosophy
+"Run, Spot, Run: The Ethics of Keeping Pets",1,£20.02,Philosophy
+The Nicomachean Ethics,1,£36.34,Philosophy
+Meditations,2,£25.89,Philosophy
+Beyond Good and Evil,1,£43.38,Philosophy
+Chase Me (Paris Nights #2),5,£25.27,Romance
+Black Dust,5,£34.53,Romance
+Her Backup Boyfriend (The Sorensen Family #1),1,£33.97,Romance
+First and First (Five Boroughs #3),4,£15.97,Romance
+Fifty Shades Darker (Fifty Shades #2),1,£21.96,Romance
+The Wedding Dress,1,£24.12,Romance
+Suddenly in Love (Lake Haven #1),2,£55.99,Romance
+Something More Than This,4,£16.24,Romance
+Doing It Over (Most Likely To #1),3,£35.61,Romance
+The Wedding Pact (The O'Malleys #2),3,£32.61,Romance
+Hold Your Breath (Search and Rescue #1),1,£28.82,Romance
+Dirty (Dive Bar #1),4,£40.83,Romance
+Take Me Home Tonight (Rock Star Romance #3),3,£53.98,Romance
+Off the Hook (Fishing for Trouble #1),3,£47.67,Romance
+A Gentleman's Position (Society of Gentlemen #3),5,£14.75,Romance
+"Sit, Stay, Love",3,£20.90,Romance
+A Girl's Guide to Moving On (New Beginnings #2),1,£31.30,Romance
+The Perfect Play (Play by Play #1),3,£59.99,Romance
+Dark Lover (Black Dagger Brotherhood #1),1,£12.87,Romance
+Changing the Game (Play by Play #2),3,£13.38,Romance
+I Had a Nice Time And Other Lies...: How to find love & sh*t like that,4,£57.36,Womens Fiction
+Will You Won't You Want Me?,3,£13.86,Womens Fiction
+Keep Me Posted,4,£20.46,Womens Fiction
+Grey (Fifty Shades #4),4,£48.49,Womens Fiction
+Meternity,3,£43.58,Womens Fiction
+Some Women,5,£13.73,Womens Fiction
+Shopaholic Ties the Knot (Shopaholic #3),5,£48.39,Womens Fiction
+Can You Keep a Secret?,1,£21.94,Womens Fiction
+Twenties Girl,2,£42.80,Womens Fiction
+The Undomestic Goddess,4,£45.75,Womens Fiction
+The Nanny Diaries (Nanny #1),5,£52.53,Womens Fiction
+The Devil Wears Prada (The Devil Wears Prada #1),1,£44.29,Womens Fiction
+Something Borrowed (Darcy & Rachel #1),5,£48.96,Womens Fiction
+Something Blue (Darcy & Rachel #2),1,£54.62,Womens Fiction
+I've Got Your Number,1,£19.69,Womens Fiction
+The Edge of Reason (Bridget Jones #2),4,£19.18,Womens Fiction
+Bridget Jones's Diary (Bridget Jones #1),1,£29.82,Womens Fiction
+Soumission,1,£50.10,Fiction
+Private Paris (Private #10),5,£47.61,Fiction
+"We Love You, Charlie Freeman",5,£50.27,Fiction
+Thirst,5,£17.27,Fiction
+The Murder That Never Was (Forensic Instincts #5),3,£54.11,Fiction
+Tuesday Nights in 1980,2,£21.04,Fiction
+The Vacationers,4,£42.15,Fiction
+The Regional Office Is Under Attack!,5,£51.36,Fiction
+Finders Keepers (Bill Hodges Trilogy #2),5,£53.53,Fiction
+The Time Keeper,5,£27.88,Fiction
+The Testament of Mary,4,£52.67,Fiction
+The First Hostage (J.B. Collins #2),3,£25.85,Fiction
+Take Me with You,3,£45.21,Fiction
+Still Life with Bread Crumbs,3,£26.41,Fiction
+Shtum,4,£55.84,Fiction
+My Name Is Lucy Barton,1,£41.56,Fiction
+My Mrs. Brown,3,£24.48,Fiction
+Mr. Mercedes (Bill Hodges Trilogy #1),1,£28.90,Fiction
+I Am Pilgrim (Pilgrim #1),4,£10.60,Fiction
+Eligible (The Austen Project #4),3,£27.09,Fiction
+Birdsong: A Story in Pictures,3,£54.64,Childrens
+The Bear and the Piano,1,£36.89,Childrens
+The Secret of Dreadwillow Carse,1,£56.13,Childrens
+The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,4,£58.08,Childrens
+Little Red,3,£13.47,Childrens
+Walt Disney's Alice in Wonderland,5,£12.96,Childrens
+Twenty Yawns,2,£22.08,Childrens
+Rain Fish,3,£23.57,Childrens
+Once Was a Time,2,£18.28,Childrens
+Luis Paints the World,3,£53.95,Childrens
+Nap-a-Roo,1,£25.08,Childrens
+The Whale,4,£35.96,Childrens
+"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",3,£52.87,Childrens
+Raymie Nightingale,2,£34.41,Childrens
+Playing from the Heart,1,£32.38,Childrens
+Maybe Something Beautiful: How Art Transformed a Neighborhood,1,£22.54,Childrens
+The Wild Robot,3,£56.07,Childrens
+The Thing About Jellyfish,1,£48.77,Childrens
+The Lonely Ones,5,£43.59,Childrens
+The Day the Crayons Came Home (Crayons),5,£26.33,Childrens
+"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",2,£37.97,Religion
+You Are What You Love: The Spiritual Power of Habit,4,£21.87,Religion
+God: The Most Unpleasant Character in All Fiction,5,£30.03,Religion
+The Book of Mormon,3,£24.57,Religion
+"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",1,£27.62,Religion
+The Bhagavad Gita,3,£57.49,Religion
+Choosing Our Religion: The Spiritual Lives of America's Nones,4,£28.42,Religion
+Worlds Elsewhere: Journeys Around Shakespeare’s Globe,5,£40.30,Nonfiction
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,3,£31.05,Nonfiction
+Reasons to Stay Alive,2,£26.41,Nonfiction
+#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,5,£23.11,Nonfiction
+"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",4,£44.18,Nonfiction
+Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,3,£31.12,Nonfiction
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,3,£16.77,Nonfiction
+The Gutsy Girl: Escapades for Your Life of Epic Adventure,1,£37.13,Nonfiction
+The Electric Pencil: Drawings from Inside State Hospital No. 3,1,£56.06,Nonfiction
+Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,4,£41.83,Nonfiction
+Reskilling America: Learning to Labor in the Twenty-First Century,2,£19.83,Nonfiction
+In the Country We Love: My Family Divided,4,£22.00,Nonfiction
+Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,2,£54.35,Nonfiction
+Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,5,£29.14,Nonfiction
+Algorithms to Live By: The Computer Science of Human Decisions,1,£30.81,Nonfiction
+The Power of Now: A Guide to Spiritual Enlightenment,2,£43.54,Nonfiction
+The Omnivore's Dilemma: A Natural History of Four Meals,2,£38.21,Nonfiction
+The Genius of Birds,1,£17.24,Nonfiction
+The Artist's Way: A Spiritual Path to Higher Creativity,5,£38.49,Nonfiction
+So You've Been Publicly Shamed,2,£12.23,Nonfiction
+Rip it Up and Start Again,5,£35.02,Music
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",3,£57.25,Music
+How Music Works,2,£37.32,Music
+Love Is a Mix Tape (Music #1),1,£18.03,Music
+Please Kill Me: The Uncensored Oral History of Punk,4,£31.19,Music
+Kill 'Em and Leave: Searching for James Brown and the American Soul,5,£45.05,Music
+"Chronicles, Vol. 1",2,£52.60,Music
+This Is Your Brain on Music: The Science of a Human Obsession,1,£38.40,Music
+"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",3,£12.36,Music
+No One Here Gets Out Alive,5,£20.02,Music
+Life,5,£31.58,Music
+Old Records Never Die: One Man's Quest for His Vinyl and His Past,2,£55.66,Music
+Forever Rockers (The Rocker #12),3,£28.80,Music
+"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",3,£17.93,Default
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,4,£22.60,Default
+"Starving Hearts (Triangular Trade Trilogy, #1)",2,£13.99,Default
+America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,3,£22.50,Default
+Aladdin and His Wonderful Lamp,3,£53.13,Default
+Penny Maybe,3,£33.29,Default
+Maude (1883-1993):She Grew Up with the country,2,£18.02,Default
+"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",5,£20.59,Default
+Soul Reader,2,£39.58,Default
+Bossypants,2,£49.46,Default
+A World of Flavor: Your Gluten Free Passport,1,£42.95,Default
+"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",5,£56.76,Default
+Tracing Numbers on a Train,3,£41.60,Default
+Thirteen Reasons Why,1,£52.72,Default
+The Secret (The Secret #1),4,£27.37,Default
+The Psychopath Test: A Journey Through the Madness Industry,2,£36.00,Default
+The Kite Runner,4,£41.82,Default
+The Girl on the Train,2,£55.02,Default
+The Emerald Mystery,2,£23.15,Default
+The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,3,£32.00,Default
+Mesaerion: The Best Science Fiction Stories 1800-1849,1,£37.59,Science Fiction
+Join,5,£35.67,Science Fiction
+"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",4,£43.30,Science Fiction
+The Project,1,£10.65,Science Fiction
+Soft Apocalypse,2,£26.12,Science Fiction
+Sleeping Giants (Themis Files #1),1,£48.74,Science Fiction
+Arena,4,£21.36,Science Fiction
+Foundation (Foundation (Publication Order) #1),1,£32.42,Science Fiction
+The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),1,£10.92,Science Fiction
+Ready Player One,4,£19.07,Science Fiction
+"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",2,£33.26,Science Fiction
+Dune (Dune #1),1,£54.86,Science Fiction
+Do Androids Dream of Electric Sheep? (Blade Runner #1),1,£51.48,Science Fiction
+Three Wishes (River of Time: California #1),2,£44.18,Science Fiction
+The Last Girl (The Dominion Trilogy #1),2,£36.26,Science Fiction
+Having the Barbarian's Baby (Ice Planet Barbarians #7.5),4,£34.96,Science Fiction
+The Book of Basketball: The NBA According to The Sports Guy,5,£44.84,Sports and Games
+"Friday Night Lights: A Town, a Team, and a Dream",3,£51.22,Sports and Games
+Sugar Rush (Offensive Line #2),1,£24.42,Sports and Games
+Settling the Score (The Summer Games #1),2,£44.91,Sports and Games
+Icing (Aces Hockey #2),4,£40.44,Sports and Games
+The Torch Is Passed: A Harding Family Story,1,£19.09,Add a comment
+"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",4,£23.89,Add a comment
+The Art Forger,3,£40.76,Add a comment
+On a Midnight Clear,3,£14.07,Add a comment
+Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),2,£53.90,Add a comment
+"Shobu Samurai, Project Aryoku (#3)",3,£29.06,Add a comment
+Modern Romance,5,£28.26,Add a comment
+The White Queen (The Cousins' War #1),5,£25.91,Add a comment
+The Song of Achilles,5,£37.40,Add a comment
+The Immortal Life of Henrietta Lacks,2,£40.67,Add a comment
+The Dovekeepers,1,£48.78,Add a comment
+More Than Music (Chasing the Dream #1),2,£37.61,Add a comment
+Code Name Verity (Code Name Verity #1),4,£22.13,Add a comment
+Cell,4,£20.29,Add a comment
+Angels Walking (Angels Walking #1),2,£34.20,Add a comment
+"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",2,£56.48,Add a comment
+A People's History of the United States,2,£40.79,Add a comment
+A Brush of Wings (Angels Walking #3),1,£55.51,Add a comment
+Rook,4,£37.86,Add a comment
+The Midnight Watch: A Novel of the Titanic and the Californian,1,£26.20,Add a comment
+Unicorn Tracks,3,£18.78,Fantasy
+"Saga, Volume 6 (Saga (Collected Editions) #6)",3,£25.02,Fantasy
+Princess Between Worlds (Wide-Awake Princess #5),5,£13.34,Fantasy
+Masks and Shadows,2,£56.40,Fantasy
+Crown of Midnight (Throne of Glass #2),3,£43.29,Fantasy
+"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",2,£28.09,Fantasy
+A Court of Thorns and Roses (A Court of Thorns and Roses #1),1,£52.37,Fantasy
+Throne of Glass (Throne of Glass #1),3,£35.07,Fantasy
+The Glittering Court (The Glittering Court #1),1,£44.28,Fantasy
+Hollow City (Miss Peregrine’s Peculiar Children #2),1,£42.98,Fantasy
+The Star-Touched Queen,5,£46.02,Fantasy
+The Hidden Oracle (The Trials of Apollo #1),2,£52.26,Fantasy
+The Bane Chronicles (The Bane Chronicles #1-11),4,£44.73,Fantasy
+Island of Dragons (Unwanteds #7),1,£29.65,Fantasy
+Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),5,£37.51,Fantasy
+City of Glass (The Mortal Instruments #3),4,£56.02,Fantasy
+Searching for Meaning in Gailana,1,£38.73,Fantasy
+The Star-Touched Queen,5,£32.30,Fantasy
+A Shard of Ice (The Black Symphony Saga #1),3,£56.63,Fantasy
+King's Folly (The Kinsman Chronicles #1),5,£39.61,Fantasy
+Without Borders (Wanderlove #1),2,£45.07,New Adult
+The Mistake (Off-Campus #2),3,£43.29,New Adult
+The Matchmaker's Playbook (Wingmen Inc. #1),1,£55.85,New Adult
+The Hook Up (Game On #1),5,£36.29,New Adult
+Shameless,3,£58.35,New Adult
+Off Sides (Off #1),5,£39.45,New Adult
+The Requiem Red,1,£22.65,Young Adult
+Set Me Free,5,£17.46,Young Adult
+The Natural History of Us (The Fine Art of Pretending #2),3,£45.22,Young Adult
+Obsidian (Lux #1),2,£14.86,Young Adult
+Burning,3,£28.81,Young Adult
+A Fierce and Subtle Poison,4,£28.13,Young Adult
+Scarlett Epstein Hates It Here,5,£43.55,Young Adult
+"Nightingale, Sing",1,£38.28,Young Adult
+Library of Souls (Miss Peregrine’s Peculiar Children #3),5,£48.56,Young Adult
+Frostbite (Vampire Academy #2),5,£29.99,Young Adult
+Wild Swans,2,£14.36,Young Adult
+Until Friday Night (The Field Party #1),2,£46.31,Young Adult
+This Is Where It Ends,2,£27.12,Young Adult
+The Darkest Lie,5,£35.35,Young Adult
+My Kind of Crazy,1,£40.36,Young Adult
+Don't Get Caught,1,£55.35,Young Adult
+Catching Jordan (Hundred Oaks),3,£50.83,Young Adult
+Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),4,£58.14,Young Adult
+The Epidemic (The Program 0.6),5,£14.44,Young Adult
+Stars Above (The Lunar Chronicles #4.5),2,£48.05,Young Adult
+The Most Perfect Thing: Inside (and Outside) a Bird's Egg,4,£42.96,Science
+Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,5,£57.36,Science
+Sorting the Beef from the Bull: The Science of Food Fraud Forensics,4,£44.74,Science
+Tipping Point for Planet Earth: How Close Are We to the Edge?,1,£37.55,Science
+"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",1,£55.91,Science
+Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,1,£28.41,Science
+The Origin of Species,4,£10.01,Science
+The Grand Design,3,£13.76,Science
+Peak: Secrets from the New Science of Expertise,2,£16.28,Science
+"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",4,£13.03,Science
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",5,£57.35,Science
+"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",2,£25.83,Science
+Seven Brief Lessons on Physics,4,£30.60,Science
+The Selfish Gene,1,£29.45,Science
+A Light in the Attic,3,£51.77,Poetry
+The Black Maria,1,£52.15,Poetry
+Shakespeare's Sonnets,4,£20.66,Poetry
+Olio,1,£23.88,Poetry
+You can't bury them all: Poems,2,£33.63,Poetry
+Slow States of Collapse: Poems,3,£57.31,Poetry
+Untitled Collection: Sabbath Poems 2014,4,£14.27,Poetry
+Poems That Make Grown Women Cry,4,£14.19,Poetry
+Night Sky with Exit Wounds,1,£41.05,Poetry
+salt.,4,£46.78,Poetry
+"Quarter Life Poetry: Poems for the Young, Broke and Hangry",5,£50.89,Poetry
+Out of Print: City Lights Spotlight No. 14,5,£53.64,Poetry
+Les Fleurs du Mal,5,£29.04,Poetry
+Howl and Other Poems,2,£40.45,Poetry
+Leave This Song Behind: Teen Poetry at Its Best,5,£51.17,Poetry
+The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),5,£15.42,Poetry
+The Crossover,4,£38.77,Poetry
+Booked,5,£17.49,Poetry
+Twenty Love Poems and a Song of Despair,4,£30.95,Poetry
+"Vampire Knight, Vol. 1 (Vampire Knight #1)",1,£15.40,Paranormal
+Wall and Piece,4,£44.18,Art
+Feathers: Displays of Brilliant Plumage,3,£49.05,Art
+Art and Fear: Observations on the Perils (and Rewards) of Artmaking,4,£48.63,Art
+The New Drawing on the Right Side of the Brain,3,£43.02,Art
+History of Beauty,4,£10.29,Art
+The Story of Art,4,£41.14,Art
+The Art Book,2,£32.34,Art
+Ways of Seeing,5,£39.51,Art
+The Lucifer Effect: Understanding How Good People Turn Evil,1,£10.40,Psychology
+The Golden Condom: And Other Essays on Love Lost and Found,1,£39.43,Psychology
+It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,3,£56.27,Psychology
+An Unquiet Mind: A Memoir of Moods and Madness,3,£21.30,Psychology
+"Thinking, Fast and Slow",1,£21.14,Psychology
+Civilization and Its Discontents,2,£59.95,Psychology
+8 Keys to Mental Health Through Exercise,1,£31.04,Psychology
+The Argonauts,2,£10.93,Autobiography
+M Train,1,£27.18,Autobiography
+Lab Girl,1,£40.85,Autobiography
+Approval Junkie: Adventures in Caring Too Much,5,£58.81,Autobiography
+Running with Scissors,4,£12.91,Autobiography
+Me Talk Pretty One Day,2,£57.60,Autobiography
+Lust & Wonder,2,£11.87,Autobiography
+Life Without a Recipe,5,£59.04,Autobiography
+A Heartbreaking Work of Staggering Genius,5,£54.29,Autobiography
+Catastrophic Happiness: Finding Joy in Childhood's Messy Years,2,£37.35,Parenting
+Fifty Shades Freed (Fifty Shades #3),5,£15.36,Adult Fiction
+The Long Haul (Diary of a Wimpy Kid #9),1,£44.07,Humor
+Old School (Diary of a Wimpy Kid #10),5,£11.83,Humor
+I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,4,£25.98,Humor
+"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",5,£14.75,Humor
+Dress Your Family in Corduroy and Denim,3,£43.68,Humor
+Toddlers Are A**holes: It's Not Your Fault,1,£25.55,Humor
+When You Are Engulfed in Flames,5,£30.89,Humor
+Naked,3,£31.69,Humor
+"Lamb: The Gospel According to Biff, Christ's Childhood Pal",5,£55.50,Humor
+Holidays on Ice,2,£51.07,Humor
+Security,2,£39.25,Horror
+Follow You Home,1,£21.36,Horror
+The Loney,1,£23.40,Horror
+Pet Sematary,3,£10.56,Horror
+Doctor Sleep (The Shining #2),2,£40.12,Horror
+Psycho: Sanitarium (Psycho #1.5),5,£36.97,Horror
+Can You Keep a Secret? (Fear Street Relaunch #4),1,£48.64,Horror
+Red Dragon (Hannibal Lecter #1),3,£23.37,Horror
+Dracula the Un-Dead,5,£35.63,Horror
+Night Shift (Night Shift #1-20),4,£12.75,Horror
+Needful Things,4,£47.51,Horror
+Misery,2,£34.79,Horror
+It,3,£25.01,Horror
+'Salem's Lot,4,£49.56,Horror
+The Stand,2,£57.86,Horror
+The Girl with All the Gifts,3,£49.47,Horror
+House of Leaves,1,£54.89,Horror
+Sapiens: A Brief History of Humankind,5,£54.23,History
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",1,£25.52,History
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,1,£19.73,History
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",2,£36.28,History
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,1,£59.64,History
+Zealot: The Life and Times of Jesus of Nazareth,3,£24.70,History
+A Distant Mirror: The Calamitous 14th Century,3,£14.58,History
+1491: New Revelations of the Americas Before Columbus,3,£21.80,History
+Brilliant Beacons: A History of the American Lighthouse,3,£11.45,History
+"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",5,£44.48,History
+A Short History of Nearly Everything,5,£52.40,History
+The Rise and Fall of the Third Reich: A History of Nazi Germany,2,£39.67,History
+Catherine the Great: Portrait of a Woman,4,£58.55,History
+The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,5,£42.91,History
+The Hiding Place,4,£55.91,History
+America's War for the Greater Middle East: A Military History,2,£51.22,History
+The Guns of August,2,£14.54,History
+"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",2,£43.70,History
+"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",3,£30.52,Food and Drink
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",1,£56.41,Food and Drink
+My Paris Kitchen: Recipes and Stories,2,£33.37,Food and Drink
+"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",4,£14.02,Food and Drink
+"Layered: Baking, Building, and Styling Spectacular Cakes",1,£40.11,Food and Drink
+The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,5,£37.34,Food and Drink
+The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,2,£37.60,Food and Drink
+The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,1,£41.25,Food and Drink
+"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",3,£42.16,Food and Drink
+The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,3,£28.77,Food and Drink
+"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",1,£19.55,Food and Drink
+Barefoot Contessa Back to Basics,1,£28.01,Food and Drink
+Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,5,£50.62,Food and Drink
+My Kitchen Year: 136 Recipes That Saved My Life,2,£11.53,Food and Drink
+Everyday Italian: 125 Simple and Delicious Recipes,5,£20.10,Food and Drink
+"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",1,£38.77,Food and Drink
+Cravings: Recipes for What You Want to Eat,3,£20.50,Food and Drink
+"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",4,£12.34,Food and Drink
+32 Yolks,2,£53.63,Food and Drink
+"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",5,£11.38,Food and Drink
+Redeeming Love,5,£20.47,Christian Fiction
+Close to You,4,£49.46,Christian Fiction
+Shadows of the Past (Logan Point #1),5,£39.67,Christian Fiction
+Like Never Before (Walker Family #2),2,£28.77,Christian Fiction
+Counted With the Stars (Out from Egypt #1),5,£17.97,Christian Fiction
+If I Run (If I Run #1),4,£49.97,Christian Fiction
+The Dirty Little Secrets of Getting Your Dream Job,4,£33.34,Business
+The Third Wave: An Entrepreneur’s Vision of the Future,5,£12.61,Business
+The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,3,£27.55,Business
+Shoe Dog: A Memoir by the Creator of NIKE,2,£23.99,Business
+Made to Stick: Why Some Ideas Survive and Others Die,5,£38.85,Business
+Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,1,£43.14,Business
+The Art of Startup Fundraising,3,£21.00,Business
+Born for This: How to Find the Work You Were Meant to Do,5,£21.59,Business
+The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,1,£36.91,Business
+"Rich Dad, Poor Dad",1,£51.74,Business
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,3,£33.92,Business
+Rework,2,£44.88,Business
+Louisa: The Extraordinary Life of Mrs. Adams,2,£16.85,Biography
+"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",2,£21.15,Biography
+The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,1,£39.55,Biography
+Benjamin Franklin: An American Life,3,£48.19,Biography
+The Rise of Theodore Roosevelt (Theodore Roosevelt #1),3,£42.57,Biography
+In Her Wake,1,£12.84,Thriller
+The Elephant Tree,5,£23.82,Thriller
+Behind Closed Doors,4,£52.22,Thriller
+You (You #1),5,£43.61,Thriller
+The Guilty (Will Robie #4),2,£13.82,Thriller
+The 14th Colony (Cotton Malone #11),1,£39.24,Thriller
+Give It Back,2,£18.32,Thriller
+Killing Floor (Jack Reacher #1),4,£31.49,Thriller
+The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),3,£59.71,Thriller
+Far From True (Promise Falls Trilogy #2),2,£34.93,Thriller
+The Travelers,1,£15.77,Thriller
+When We Collided,1,£31.77,Contemporary
+Someone Like You (The Harrisons #2),5,£52.79,Contemporary
+We Are All Completely Beside Ourselves,1,£24.04,Contemporary
+The Four Agreements: A Practical Guide to Personal Freedom,5,£17.66,Spirituality
+The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,5,£32.24,Spirituality
+Chasing Heaven: What Dying Taught Me About Living,2,£37.80,Spirituality
+If I Gave You God's Phone Number....: Searching for Spirituality in America,1,£20.91,Spirituality
+Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,2,£46.33,Spirituality
+A New Earth: Awakening to Your Life's Purpose,5,£55.65,Spirituality
+Logan Kade (Fallen Crest High #5.5),2,£13.12,Academic
+Online Marketing for Busy Authors: A Step-By-Step Guide,1,£46.35,Self Help
+How to Be Miserable: 40 Strategies You Already Use,1,£46.03,Self Help
+"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",3,£52.15,Self Help
+You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,3,£12.08,Self Help
+How to Stop Worrying and Start Living,5,£46.49,Self Help
+All the Light We Cannot See,5,£29.87,Historical
+The Girl You Left Behind (The Girl You Left Behind #1),1,£15.79,Historical
+(Un)Qualified: How God Uses Broken People to Do Big Things,5,£54.00,Christian
+Crazy Love: Overwhelmed by a Relentless God,2,£47.72,Christian
+Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,1,£25.77,Christian
+Silence in the Dark (Logan Point #4),3,£58.33,Suspense
+The Grownup,1,£35.88,Short Stories
+Suzie Snowflake: One beautiful flake (a self-esteem story),5,£54.81,Novels
+"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",3,£49.05,Health
+"Eat Fat, Get Thin",2,£54.07,Health
+10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,5,£49.71,Health
+The Art and Science of Low Carbohydrate Living,5,£52.98,Health
+Libertarianism for Beginners,2,£51.33,Politics
+Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,4,£52.65,Politics
+Equal Is Unfair: America's Misguided Fight Against Income Inequality,1,£56.86,Politics
+Amid the Chaos,1,£36.58,Cultural
+Dark Notes,5,£19.19,Erotica
+The Long Shadow of Small Ghosts: Murder and Memory in an American City,1,£10.97,Crime
